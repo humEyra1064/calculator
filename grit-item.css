@@ -13,17 +13,16 @@ body{
     align-items: center;
 }
 .header{
+   
     display: flex;
-    justify-content: space-between;
+    justify-content:end;
     margin: 10px;
 }
 .logo{
    
     padding: 5px;
 }
-.fa-thin fa-signal-weak{
-    color: white;
-}
+
 .button{
     
    
